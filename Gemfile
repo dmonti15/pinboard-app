@@ -26,6 +26,8 @@ gem 'haml', '~> 5.0', '>= 5.0.4'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 # forms made easy
 gem 'simple_form', '~> 3.5', '>= 3.5.1'
+# Flexible authentication solution for Rails with Warden
+gem 'devise', '~> 4.4', '>= 4.4.3'
 # bundle exec rake doc:rails generates the API under doc/api.
 gem 'sdoc', '~> 0.4.0', group: :doc
 
