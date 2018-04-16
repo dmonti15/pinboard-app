@@ -28,6 +28,8 @@ gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 gem 'simple_form', '~> 3.5', '>= 3.5.1'
 # Flexible authentication solution for Rails with Warden
 gem 'devise', '~> 4.4', '>= 4.4.3'
+# Paperclip gem
+gem 'paperclip', '~> 6.0'
 # bundle exec rake doc:rails generates the API under doc/api.
 gem 'sdoc', '~> 0.4.0', group: :doc
 
