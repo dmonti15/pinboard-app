@@ -32,6 +32,8 @@ gem 'devise', '~> 4.4', '>= 4.4.3'
 gem 'paperclip', '~> 6.0'
 # Masonry-rails gem for layout
 gem 'masonry-rails', '~> 0.2.4'
+# acts_as_votable gem allows user to like pinboard posts
+gem 'acts_as_votable', '~> 0.11.1'
 # bundle exec rake doc:rails generates the API under doc/api.
 gem 'sdoc', '~> 0.4.0', group: :doc
 
